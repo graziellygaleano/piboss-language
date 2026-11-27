@@ -1,4 +1,4 @@
-# PiBoss Language
+# Pibo's Language
 
 Aplicativo móvel educacional voltado para a promoção do aprendizado lúdico de vocabulário em língua inglesa na primeira infância (3 a 6 anos), combinando jogos digitais sérios (*Serious Games*) e um agente pedagógico adaptativo baseado em **Lógica Fuzzy**.
 
