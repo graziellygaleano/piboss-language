@@ -10,7 +10,7 @@ Projeto desenvolvido no âmbito da pesquisa apresentada no **17º CONICT (Congre
 
 Aplicativos infantis tradicionais costumam adotar avaliações estritamente binárias (*acertou / errou*), o que pode gerar frustração ou estimular respostas por tentativa e erro sem real assimilação fonética.
 
-O **PiBoss Language** propõe uma abordagem acolhedora, multissensorial e adaptativa:
+O **Pibo's Language** propõe uma abordagem acolhedora, multissensorial e adaptativa:
 
 * **Dois Mundos Integrados:**
   * **Mundo dos Animais:** foco em vocabulário, grafia e reconhecimento auditivo em inglês.
