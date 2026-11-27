@@ -6,6 +6,13 @@
     "orientation": "landscape",
     "scheme": "pibosslanguage",
     "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.graziellygaleano.pibosslanguage",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#a4d955"
+      }
+    },
     "plugins": [
       "expo-router",
       [
